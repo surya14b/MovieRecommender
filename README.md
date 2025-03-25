@@ -121,7 +121,3 @@ Now run,
 streamlit run app.py
 ```
 
-
-```bash
-
-```
